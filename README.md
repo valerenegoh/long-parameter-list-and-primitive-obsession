@@ -1,11 +1,5 @@
 # Long Parameter List and Primitive Obsession
 
-## Trainer Guide
-
-* Fork this repository to Trainee's GitLab group
-* Remove the trainer's refactor reference branch
-* Delete this section of the README
-
 ## Trainee Guide
 
 For this exercise, you are looking to refactor TWO code smells:
