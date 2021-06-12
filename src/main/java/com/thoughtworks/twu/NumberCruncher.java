@@ -1,9 +1,11 @@
 package com.thoughtworks.twu;
 
-public class NumberCruncher {
-    private final int[] numbers;
+import java.util.List;
 
-    public NumberCruncher(int... numbers) {
+public class NumberCruncher {
+    private final List<Integer> numbers;
+
+    public NumberCruncher(List<Integer> numbers) {
         this.numbers = numbers;
     }
 
